@@ -6,7 +6,7 @@ echo "Script started excution at :$START_TIME"
 
 sleep 10
 
-END_TIME=$(date +$S)
+END_TIME=$(date +%S)
 
 echo "script completed excution at :$END_TIME"
 
