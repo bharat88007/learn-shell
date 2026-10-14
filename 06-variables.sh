@@ -5,4 +5,4 @@ echo "please enter password"
 read -s password
 
 echo "username is $username"
-echo "password is $password"
+echo "password is XXXXXXXXX"
